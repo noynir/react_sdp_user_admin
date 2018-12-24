@@ -317,7 +317,7 @@ export default UserList;
 ```bash
     npm install -g json-server
 ```
-- copy the [`./data/user.json`](tree/master/data/users.json).
+- copy the [`./data/user.json`](https://github.com/noynir/react_sdp_user_admin/blob/master/data/users.json).
 - open a new cmd tab and run the server with the `users.json` file and a new port.
 ```bash
     json-server ./users.json --port 3001
