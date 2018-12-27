@@ -86,7 +86,7 @@ import './user.css'
 
 ```jsx
 /* src/App.js */
-import User from 'users/user/User'
+import User from './users/user/User'
 ```
 
 - update `jsx` returned from the `render` function and return the `User` Element
